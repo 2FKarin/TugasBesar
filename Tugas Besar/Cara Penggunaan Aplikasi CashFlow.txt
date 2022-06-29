@@ -1,0 +1,15 @@
+1. Buka folder Tugas Besar
+2. Buat database mysql dengan nama "cashflow", lalu import database "cashflow.sql" yang ada didalam folder Tugas Besar
+3. Setelah database berhasil diimport, jalankan programnya didalam folder "Tugas Besar-> DeskPro-> dist" lalu tekan dua kali file benama "Deskpro".
+4. Masukkan data pemasukan dengan memilih nomor pada kolom no, masukkan pemasukan pada kolom pemasukan dan masukkan keterangan pada kolom keterangan
+   setelah itu tekan "Tambahkan" lalu data akan dikirim ke database, 
+   dan hasil dari input kolom pemasukan akan dijumlahkan dan akan masuk kedalam output kolom pemasukan.
+
+5. Masukkan data pengeluaran dengan memilih nomor pada kolom no, masukkan pengeluaran pada kolom pengeluaran dan masukkan keterangan pada kolom keterangan
+   setelah itu tekan "Tambahkan" lalu data akan dikirim ke database, 
+   dan hasil dari input kolom pengeluaran akan dijumlahkan dan akan masuk kedalam output kolom pengeluaran.
+
+6. Untuk kolom sisa dompet akan mengambil sempel dari kolom ouput pemasukan yang dikurangi kolom output pengeluaran, tinggal kita tekan "Get" Untuk mendapatkannya.
+7. Tombol "Keluar" untuk keluar
+8. Tombol "Tampilkan Diagram" untuk menampilkan grafik pemasukan dan pengeluaran.
+9. Tombol "About" untuk menampilkan info dari aplikasi yang digunakan.
